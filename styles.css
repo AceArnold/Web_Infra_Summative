@@ -1,0 +1,78 @@
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #ff0000;
+  background-image: url('wallpaperflare.com_wallpaper\ \(7\).jpg');
+}
+
+.container {
+  width: 80%;
+  max-width: 600px;
+  background-color: #ca0000dd;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  border-radius: 20px;
+    border: 5px solid #ca0000;
+  border-color: #ca0000;
+}
+
+.input-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+  
+}
+
+.input-section input {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 200px;
+}
+
+.input-section .vs {
+  margin: 0 10px;
+  font-size: 20px;
+}
+
+.input-section button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #997171;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.pokemon-result {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.pokemon-result img {
+  width: 150px;
+  height: 150px;
+  margin-right: 20px;
+}
+
+.stronger-pokemon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.stronger-pokemon img {
+  width: 250px;
+  height: 250px;
+  margin-right: 20px;
+}
+
