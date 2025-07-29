@@ -8,10 +8,25 @@ body {
   background-image: url('wallpaperflare.com_wallpaper\ \(7\).jpg');
 }
 
+.h1 {
+  text-align: center;
+  color: #920000;
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+
+.logo {
+display: flex;
+text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
 .container {
   width: 80%;
   max-width: 600px;
-  background-color: #ca0000dd;
+  background-color: #ffffffdd;
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
@@ -44,7 +59,7 @@ body {
 .input-section button {
   padding: 10px 20px;
   font-size: 16px;
-  background-color: #997171;
+  background-color: #ae0000;
   color: #fff;
   border: none;
   border-radius: 4px;
