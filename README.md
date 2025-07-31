@@ -119,7 +119,7 @@ This project uses [PokeAPI](https://pokeapi.co/) to fetch public Pokémon data o
 ```
 
 ## Youtube link
-* https://www.youtube.com/watch?v=CaJXhP5qA84
+* [https://www.youtube.com/watch?v=CaJXhP5qA84]
 
 ## 👤 Author
 
